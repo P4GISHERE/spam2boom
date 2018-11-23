@@ -4,7 +4,7 @@ console.log("P4G the best");
 var prefix = "1";
 
 client.on("ready", () => {
-let channel =     client.channels.get("513309819612954624")
+let channel =     client.channels.get("515480735294160908")
 setInterval(function() {
 channel.send(`**Road To 100k Credit**`);
 }, 100)
